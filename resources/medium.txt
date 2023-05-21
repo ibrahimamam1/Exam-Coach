@@ -1,0 +1,60 @@
+Which of the following is an example of a high-level programming language?
+1) Assembly language
+2) C
+3) Machine language
+4) None of the above
+Answer: 2) C
+Which of the following data structures is typically implemented using a linked list?
+1) Stack
+2) Queue
+3) Tree
+4) Array
+Answer: 1) Stack
+Which of the following is NOT a component of the Von Neumann architecture?
+1) Memory
+2) Input/output devices
+3) Control unit
+4) Arithmetic logic unit
+Answer: b) Input/output devices
+Which of the following is used to represent a network of interconnected nodes?
+1) Tree
+2) Graph
+3) Queue
+4) Stack
+Answer: b) Graph
+Which of the following is used to convert an IP address into a domain name?
+a) DNS
+b) DHCP
+c) ARP
+d) NAT
+Answer: a) DNS
+Which of the following is NOT a common web development framework?
+a) Angular
+b) React
+c) Django
+d) Bootstrap
+Answer: d) Bootstrap
+Which of the following is used to securely transmit data over the internet?
+a) HTTP
+b) HTTPS
+c) FTP
+d) SSH
+Answer: b) HTTPS
+Which of the following is a type of database that uses a key-value pair to store data?
+a) Relational database
+b) Object-oriented database
+c) NoSQL database
+d) Hierarchical database
+Answer: c) NoSQL database
+Which of the following is NOT a type of algorithm used in machine learning?
+a) Linear regression
+b) Decision tree
+c) Breadth-first search
+d) Support vector machine
+Answer: c) Breadth-first search
+Which of the following is used to represent a logical proposition in Boolean algebra?
+a) Variable
+b) Constant
+c) Operator
+d) Function
+Answer: c) Operator
