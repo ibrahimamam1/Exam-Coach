@@ -1,0 +1,69 @@
+What is the time complexity of the best-known algorithm for solving the Traveling Salesman Problem (TSP)?
+a) O(1)
+b) O(n)
+c) O(n log n)
+d) O(n!)
+Answer: d) O(n!)
+
+Which of the following data structures is typically used to implement a priority queue with efficient insertion and deletion operations?
+a) Array
+b) Linked list
+c) Binary search tree
+d) Fibonacci heap
+Answer: d) Fibonacci heap
+
+In computer networking, what is the purpose of the Address Resolution Protocol (ARP)?
+a) To resolve IP addresses to MAC addresses
+b) To resolve domain names to IP addresses
+c) To resolve MAC addresses to IP addresses
+d) To resolve IP addresses to port numbers
+Answer: a) To resolve IP addresses to MAC addresses
+
+Which of the following sorting algorithms has a worst-case time complexity of O(n log n) and uses the divide-and-conquer strategy?
+a) Bubble sort
+b) Insertion sort
+c) Merge sort
+d) Quick sort
+Answer: c) Merge sort
+
+Which of the following is NOT a key advantage of using virtual memory in operating systems?
+a) Increased overall system performance
+b) Efficient utilization of memory resources
+c) Simplified memory management
+d) Enhanced security and isolation
+Answer: c) Simplified memory management
+
+Which of the following algorithms is commonly used for routing packets in large-scale computer networks, such as the internet?
+a) Bellman-Ford algorithm
+b) Depth-first search (DFS)
+c) Dijkstra's algorithm
+d) Floyd-Warshall algorithm
+Answer: c) Dijkstra's algorithm
+
+In computer graphics, what is the purpose of a z-buffer?
+a) To store texture coordinates for 3D objects
+b) To store the depth information of each pixel in a 3D scene
+c) To store the RGB color values of each pixel in an image
+d) To store the normal vectors of 3D surfaces
+Answer: b) To store the depth information of each pixel in a 3D scene
+
+Which of the following is an example of a type of artificial intelligence that focuses on enabling computers to understand and interpret human language?
+a) Machine learning
+b) Natural language processing
+c) Computer vision
+d) Genetic algorithms
+Answer: b) Natural language processing
+
+What is the main advantage of using a solid-state drive (SSD) instead of a traditional hard disk drive (HDD) for storing data?
+a) Higher storage capacity
+b) Faster data access and transfer speeds
+c) Lower cost per gigabyte
+d) Longer lifespan and durability
+Answer: b) Faster data access and transfer speeds
+
+Which of the following encryption algorithms is considered to be secure against attacks by quantum computers?
+a) RSA
+b) AES
+c) ECC
+d) Lattice-based cryptography
+Answer: d) Lattice-based cryptography
