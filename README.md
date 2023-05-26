@@ -1,14 +1,12 @@
 # Exam-Coach
-Simple GUI app implemented in C/C++ with SFML
+This is a first year school project. It is a simple CLI app that help students prepare for their exams
 
 Features include:
 -Questions , tips and solutions
 -Quick practice minigame
--Progress tracking
+-Exam planner
 -Chat system with Coach
 
 Languages and Libraries:
 -C
--C++
--SFML
 
